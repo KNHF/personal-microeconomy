@@ -53,9 +53,7 @@ Each row represents one day of observations.
 
 Daily structured logging creates a time-indexed dataset:
 
-[
-x_t = [sleep_t, study_t, gym_t, spend_t, focus_t, stress_t]
-]
+$$x_t = [sleep_t, study_t, gym_t, spend_t, focus_t, stress_t]$$
 
 ---
 
