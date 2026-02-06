@@ -1,4 +1,4 @@
-## 🧠 Personal Micro-Economy & Risk Engine
+## 🧠 A Financial Resilience & Behaviour Risk Engine
 
 ### Modelling Daily Behaviour as a Stochastic System Using Python
 
